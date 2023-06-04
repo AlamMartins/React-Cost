@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Projeto Atualizado",
+      "budget": "1750",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "Alam Martins Morais",
+      "budget": "175555",
+      "cost": 1500,
+      "services": [
+        {
+          "name": "Alam Martins",
+          "cost": "1500",
+          "description": "teste",
+          "id": "b34870f6-cbc4-4281-b568-4d70dd281c59"
+        }
+      ],
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
